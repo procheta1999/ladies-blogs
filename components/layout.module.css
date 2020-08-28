@@ -1,0 +1,31 @@
+.container {
+  width: 100%;
+    padding: 12px;
+    padding-top: 12px;
+    padding-right: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+  margin: 0.5rem auto 1rem;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size:15px;
+}
+
+.headerImage {
+  width: 2rem;
+  height: 2rem;
+}
+
+.headerHomeImage {
+  width: 2rem;
+  height: 2rem;
+}
+
+.backToHome {
+  margin: 3rem 0 0;
+  color:white;
+}
